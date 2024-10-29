@@ -1,8 +1,12 @@
-body {
-  background-color: aqua;
+html {
   background-image: url(foto1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+body {
   font-family: Georgia, "Times New Roman", Times, serif;
-  text-align: justify;
 }
 h1 {
   font-family: "comic sans ms";
@@ -15,7 +19,7 @@ h4 {
   font-style: italic;
 }
 #Rian {
-  color: white;
+  color: rgb(228, 15, 15);
 }
 #paragraf1 {
   color: salmon;
