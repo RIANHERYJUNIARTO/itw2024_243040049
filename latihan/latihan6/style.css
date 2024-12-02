@@ -5,7 +5,9 @@
 body {
   font-family: "Montserrat", sans-serif;
   overflow-x: hidden;
+  background-image: url(foto3.jpg);
 }
+
 /* Navbar */
 nav {
   display: flex;
